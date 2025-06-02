@@ -1,1 +1,2 @@
 # Merjenje-razdalje-z-Arduino-ter-ultrazvo-nim-senzorjem
+V današnjem času avtomobili postajajo vse bolj zapleteni in tehnološki, parkirni senzorji pa so ena izmed pogosto uporabljenih funkcij za pomoč pri parkiranju vozil. Ta projekt se osredotoča na izdelavo parkirnega senzorja z uporabo ultrazvočnega senzorja za merjenje razdalje, Arduino za obdelavo podatkov ter LCD I2C zaslona in LED diod za predstavitev podatkov.

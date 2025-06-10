@@ -43,8 +43,15 @@ Pri večjih razdaljah (nad 150 cm) se relativna napaka opazno povečuje, kar je 
 
 Največja absolutna napaka je bila 6.2 cm, kar se je zgodilo pri razdalji 250 cm (2.5 % relativne napake), kar je še vedno znotraj razumne tolerance za tak tip senzorja.
 
-2. Stabilnost senzorja:
-Meja napake se z večanjem razdalje povečuje, kar kaže na rahlo nekonsistentnost senzorja pri daljših razdaljah.
+2. Natančnost senzorja:
+Meja napake se z večanjem razdalje povečuje, kar kaže na rahlo nenatančnost senzorja pri daljših razdaljah.
 
-Npr. pri 125 cm je napaka 2.4 %, medtem ko pri 175 cm znaša že 2.3 %, pri 250 cm pa doseže maksimum 2.5 %.
+3. Ocena delovanja naprave:
+Merilni sistem je za prototipno ali izobraževalno rabo zelo uspešen.
+
+Naprava izkazuje dobro linearno odzivnost in relativno stabilnost pri merjenju, z izjemo skrajnih merilnih vrednosti, kjer je potrebno računati z večjo negotovostjo.
+
+
+
+
 

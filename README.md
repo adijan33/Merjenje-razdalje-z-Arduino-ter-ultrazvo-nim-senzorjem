@@ -33,10 +33,18 @@ Rdeča LED: predmet je zelo blizu
 ![slika vezja](https://github.com/user-attachments/assets/43f65ffb-3b6e-45c5-ad7f-28f546a10261)
 
 
-## Komentarji in predlagane izboljšave 
-Merilnik je bil testiran z merilnim trakom in kaže zelo natančne vrednosti pri razdaljah med 5 cm in 150 cm. Povprečno odstopanje je bilo manj kot ±1 cm. Pri razdaljah pod 5 cm se lahko pojavijo manjša nihanja zaradi odbojev.  
-**Postopek kalibracije** je bil izveden s primerjavo meritev na znani razdalji in po potrebi z dopolnitvijo izračuna razdalje z umeritvenim faktorjem.  
-**Predlogi za izboljšave**:
-- Dodajanje zvočnega opozorila.
-- Merjenje in prikaz povprečne vrednosti za večjo stabilnost.
-- Povezava z Bluetooth/ESP modulom za brezžično pošiljanje podatkov.
+##Komentar na osnovi meritev in odstopanj:
+Naša merilna naprava, ki temelji na Arduinu in ultrazvočnem senzorju, je pokazala relativno dobro natančnost, predvsem pri krajših razdaljah.
+
+1. Natančnost meritev:
+Naprava ohranja relativno nizko napako (pod 1 %) pri razdaljah do približno 100 cm, kar je zelo dobro glede na naravo ultrazvočnih senzorjev.
+
+Pri večjih razdaljah (nad 150 cm) se relativna napaka opazno povečuje, kar je običajno pri cenejših ultrazvočnih senzorjih zaradi oslabitve odboja signala in širjenja zvočnega stožca.
+
+Največja absolutna napaka je bila 6.2 cm, kar se je zgodilo pri razdalji 250 cm (2.5 % relativne napake), kar je še vedno znotraj razumne tolerance za tak tip senzorja.
+
+2. Stabilnost senzorja:
+Meja napake se z večanjem razdalje povečuje, kar kaže na rahlo nekonsistentnost senzorja pri daljših razdaljah.
+
+Npr. pri 125 cm je napaka 2.4 %, medtem ko pri 175 cm znaša že 2.3 %, pri 250 cm pa doseže maksimum 2.5 %.
+

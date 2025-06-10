@@ -30,6 +30,9 @@ Rdeča LED: predmet je zelo blizu
 | 9   | Napajanje 5V (USB)           | 1     | Napajanje sistema                                 |
 
 
+![slika vezja](https://github.com/user-attachments/assets/43f65ffb-3b6e-45c5-ad7f-28f546a10261)
+
+
 ## Komentarji in predlagane izboljšave 
 Merilnik je bil testiran z merilnim trakom in kaže zelo natančne vrednosti pri razdaljah med 5 cm in 150 cm. Povprečno odstopanje je bilo manj kot ±1 cm. Pri razdaljah pod 5 cm se lahko pojavijo manjša nihanja zaradi odbojev.  
 **Postopek kalibracije** je bil izveden s primerjavo meritev na znani razdalji in po potrebi z dopolnitvijo izračuna razdalje z umeritvenim faktorjem.  

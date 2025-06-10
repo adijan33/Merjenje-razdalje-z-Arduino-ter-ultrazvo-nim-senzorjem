@@ -33,7 +33,7 @@ Rdeča LED: predmet je zelo blizu
 ![slika vezja](https://github.com/user-attachments/assets/43f65ffb-3b6e-45c5-ad7f-28f546a10261)
 
 
-##Komentar na osnovi meritev in odstopanj:
+# Komentar na osnovi meritev in odstopanj:
 Naša merilna naprava, ki temelji na Arduinu in ultrazvočnem senzorju, je pokazala relativno dobro natančnost, predvsem pri krajših razdaljah.
 
 1. Natančnost meritev:

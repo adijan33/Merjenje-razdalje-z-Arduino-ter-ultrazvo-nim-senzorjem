@@ -1,3 +1,4 @@
+# Merjenje-razdalje-z-Arduino-ter-ultrazvo-nim-senzorjem
 Opis projekta: Merilec razdalje z Arduinom
 Ta projekt je enostaven merilec razdalje, ki uporablja ultrazvočni senzor (HC-SR04) za merjenje oddaljenosti predmetov. Merjene vrednosti se prikazujejo na LCD zaslonu, poleg tega pa sistem vključuje tri LED diode (rdeča, rumena in zelena), ki glede na razdaljo vizualno nakazujejo stanje.
 
@@ -14,7 +15,7 @@ Rumena LED: razdalja je srednja
 
 Rdeča LED: predmet je zelo blizu 
 
-# Merjenje-razdalje-z-Arduino-ter-ultrazvo-nim-senzorjem
+# Seznam vseh uporabljenih materialov (kosovnica)
 
 | Št. | Ime                          | Količina | Opis                                           |
 |-----|------------------------------|----------|------------------------------------------------|

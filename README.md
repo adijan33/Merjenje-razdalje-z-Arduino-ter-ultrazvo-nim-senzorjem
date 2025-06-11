@@ -31,6 +31,7 @@ Rdeča LED: predmet je zelo blizu
 
 
 ![slika vezja](https://github.com/user-attachments/assets/43f65ffb-3b6e-45c5-ad7f-28f546a10261)
+![image](https://github.com/user-attachments/assets/d627e640-b79d-4c6f-aff2-51c87b20eb60)
 
 
 # Komentar na osnovi meritev in odstopanj:
